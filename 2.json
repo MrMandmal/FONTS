@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "font family name",
+    "previewText": "description",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json",
+        "ggsans-Bold": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json",
+        "ggsans-BoldItalic": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json",
+        "ggsans-ExtraBold": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json",
+        "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json",
+        "ggsans-Medium": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json",
+        "ggsans-MediumItalic": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json",
+        "ggsans-Normal": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json",
+        "ggsans-NormalItalic": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json",
+        "ggsans-Semibold": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json",
+        "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json",
+        "NotoSans-Bold": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json",
+        "NotoSans-ExtraBold": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json",
+        "NotoSans-Medium": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json",
+        "NotoSans-Normal": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json",
+        "NotoSans-NormalItalic": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json",
+        "NotoSans-Semibold": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json",
+        "SourceCodePro-Semibold": "https://raw.githubusercontent.com/MrMandmal/FONTS/refs/heads/main/2%20-%20SF-UI-Text-Heavy.ttf.jq.json"
+    }
+}
