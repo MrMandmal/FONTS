@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "font family name",
+    "previewText": "description",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf",
+        "ggsans-Bold": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf",
+        "ggsans-BoldItalic": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf",
+        "ggsans-ExtraBold": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf",
+        "ggsans-Medium": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf",
+        "ggsans-MediumItalic": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf",
+        "ggsans-Normal": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf",
+        "ggsans-NormalItalic": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf",
+        "ggsans-Semibold": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf",
+        "NotoSans-Bold": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf",
+        "NotoSans-ExtraBold": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf",
+        "NotoSans-Medium": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf",
+        "NotoSans-Normal": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf",
+        "NotoSans-NormalItalic": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf",
+        "NotoSans-Semibold": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf",
+        "SourceCodePro-Semibold": "https://github.com/MrMandmal/FONTS/raw/refs/heads/main/Net-SF-UI-Text-Heavy.ttf"
+    }
+}
